@@ -4,5 +4,7 @@ Get ready to level up your coding skills by creating a website for the classic g
 • Setting up the basic HTML structure
 
 • Styling your game with CSS for a modern look
+
 • Adding JavaScript to handle game logic and user interactions
+
 • Creating a dynamic and interactive user experience
